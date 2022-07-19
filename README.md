@@ -10,7 +10,7 @@ https://guarded-stream-71666.herokuapp.com/
 Add as many notes as you need and delete them whenever you are no longer in need of them.
 
 ### Screenshot
-![Site Preview](/assets/images/site-prev.png)
+![Site Preview](/assets/site-prev.png)
 
 ### Demo
 https://youtu.be/LHfqCXgUueo
