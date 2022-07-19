@@ -12,9 +12,6 @@ Add as many notes as you need and delete them whenever you are no longer in need
 ### Screenshot
 ![Site Preview](/assets/site-prev.png)
 
-### Demo
-https://youtu.be/LHfqCXgUueo
-
 ## Questions
 [jcgcristel's GitHub](https://github.com/jcgcristel)
 
